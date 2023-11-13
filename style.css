@@ -1,0 +1,25 @@
+div.nav-bar {
+    background-color:yellow;
+    padding:20px;
+    text-align:center;
+}
+
+.nav-bar a {
+    text-transform:uppercase;
+}
+
+div.content {
+    background-color: antiquewhite;
+    padding: 20px;
+}
+
+.content > h1{
+    text-align: center;
+    background-color: aquamarine;
+    padding: 10px;
+}
+
+p+p {
+    background-color: blanchedalmond;
+    padding: 10px;
+}
